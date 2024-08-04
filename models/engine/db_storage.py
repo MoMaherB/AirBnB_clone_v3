@@ -14,7 +14,6 @@ from models.amenity import Amenity
 import models
 
 
-
 my_classes = {
         "BaseModel": BaseModel,
         "User": User,
