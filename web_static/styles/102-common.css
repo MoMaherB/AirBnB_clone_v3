@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+ .contaner {
+	margin: auto;
+	max-width: 1000px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+ }
+ 
+ /* Responsive design */
+ @media screen and (max-width: 768px) {
+  .container {
+    max-width: 90%;
+    padding: 0 10px;
+  }
+  .places article {
+    width: 45%;
+    margin: 20px 10px;
+  }
+  .filters {
+    flex-direction: column;
+  }
+  .locations, .amenities {
+    width: 100%;
+    border-right: none;
+    margin-bottom: 20px;
+  }
+  .filters button {
+    width: 100%;
+    margin-right: 0;
+  }
+ }
