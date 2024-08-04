@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "AirBNB V2- web flask"
+git commit -m "adding files"
 git push
