@@ -10,7 +10,7 @@ This project is the first step in developing a full web application. This projec
 
 ## our Team nemas:
 
-* Peter Nageub
+* Peter sameh Nageub
 * Mohamed Maher
 
 ## Project Setup
